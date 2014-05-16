@@ -7,3 +7,14 @@ Calender_ReserveSystem
 혹시라도 소스적으로 조언 해주실 분들은 
 kimpaksayosi@naver.com로 보내주시면 감사드리겠습니다.
 
+* 작업환경
+
+Eclipse EE, Windows 7
+
+* 사용 언어
+
+Java, JSP
+
+* 사용 DB
+
+MySQL
